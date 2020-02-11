@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806108734332",
+    "firebase_url": "https://nuevoui.firebaseio.com",
+    "project_id": "nuevoui",
+    "storage_bucket": "nuevoui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806108734332:android:554d7998b1dfd8f81dfaf9",
+        "android_client_info": {
+          "package_name": "com.example.nuevoui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806108734332-ja12f2487lfmarl79bddsfvo2o1p9hlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nuevoui",
+            "certificate_hash": "356d8b09c608cf579e9d489279e1996f749fb83d"
+          }
+        },
+        {
+          "client_id": "806108734332-k3aorkiv57q2862us4ps809d5tf1s99d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSiFiKOQzPkOZET1j03e6Q8xJslGahuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806108734332-k3aorkiv57q2862us4ps809d5tf1s99d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
